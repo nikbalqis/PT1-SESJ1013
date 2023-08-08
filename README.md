@@ -1,4 +1,9 @@
-# Programming Technique 1 - Course Information
+# Programming Technique 1 Course Information
+
+<p align = "center">
+<img src="https://github.com/Dr-Khatib/PT1-SESJ1013/blob/main/images/PT1Banner.jpg" height="200">
+</p>
+
 
 ## Course Overview
 
