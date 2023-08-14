@@ -4,6 +4,7 @@
 <img src="https://github.com/Dr-Khatib/PT1-SESJ1013/blob/main/images/PT1Banner.jpg" height="200">
 </p>
 
+Test Commit From VSCODE
 
 ## Course Overview
 
