@@ -1,4 +1,1 @@
-NAME:YEO WERN MIN
-BIRTHPLACE: JOHOR BAHRU,JOHOR
-HOBBY: LISTENING TO THE MUSIC & PHOTOGRAPHY
-AMBITION : BECOME FINANCIALLY INDEPENDENT AND TRAVEL AROUND THE WORLD
+Hi I am Yeo Wern Min and my hobby is listening to the muzic and photography. I come from Johor Bahru, Johor. My ambition is I hope that I can become financially independent and travel arund the world.
