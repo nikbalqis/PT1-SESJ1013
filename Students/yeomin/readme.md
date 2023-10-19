@@ -1,1 +1,1 @@
-Hi I am Yeo Wern Min and my hobby is listening to the muzic and photography. I come from Johor Bahru, Johor. My ambition is I hope that I can become financially independent and travel arund the world.
+Hi I am Yeo Wern Min and my hobby is listening to the muzic and taking photography. I come from Johor Bahru, Johor. Before this, I studied foundation in UTM. I hope that I can become financially independent and travel arund the world one day.
