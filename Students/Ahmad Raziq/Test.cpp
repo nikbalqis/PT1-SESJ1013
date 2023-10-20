@@ -3,11 +3,11 @@
 using namespace std;
 
 int main(){
-    string xs;
+    string x;
 
     cout << "Enter your name: ";
-    getline(cin, xs);
-    cout << "Your name is " + xs + "\n";
+    getline(cin, x);
+    cout << "Your name is " + x + "\n";
 
     system("pause");
     return 0;
