@@ -1,6 +1,6 @@
 ### Hi there 👋
 * 👂 My name is Cornelia Lim Zhi Xuan.
-* 👩 Pronouns: Corne
+* 👩 Nickname : Corne
 * 🔭 I’m 19 this year.
 * 🌍 I’m from Sungai Petani, Kedah.
 * 🤝 I’m looking forward to make more new friends.
