@@ -2,6 +2,15 @@
 using namespace std;
 int main()
 {
-cout<<"Enter an integer: 7\n""Enter a decimal number : 2.25\n""Enter a single character : R\n""Enter an array of characters: Programming";
-return 0;
+ int num1,num2; 
+ char name1,name2;
+    cout << "Enter an integer:";
+    cin >> num1;
+    cout << "Enter a decimal number:";
+    cin >> num2;
+    cout << "Enter a single character:";
+    cin >> name1;
+    cout << "Enter an array of characters:";
+    cin >> name2;
+    return 0;
 }
