@@ -12,7 +12,7 @@ int main (){
     cin >> decinum;
     cout << "Enter a single character : ";
     cin >> scharacter;
-    cout << "Enter an array of characters : ";
+    cout << "Enter an array of characters llll : ";
     cin >> acharacter;
 
     return 0;
