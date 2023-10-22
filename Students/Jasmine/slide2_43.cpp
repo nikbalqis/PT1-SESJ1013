@@ -4,8 +4,7 @@ using namespace std;
 int main (){
     int integer;
     double decinum;
-    char scharacter;
-    char acharacter[100];
+    char scharacter, acharacter[100];
 
     cout << "Enter an integer : ";
     cin >> integer;
