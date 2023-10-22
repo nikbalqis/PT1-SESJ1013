@@ -1,0 +1,16 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+ int num1,num2; 
+ char name1,name2;
+    cout << "Enter an integer:";
+    cin >> num1;
+    cout << "Enter a decimal number:";
+    cin >> num2;
+    cout << "Enter a single character:";
+    cin >> name1;
+    cout << "Enter an array of characters:";
+    cin >> name2;
+    return 0;
+}
