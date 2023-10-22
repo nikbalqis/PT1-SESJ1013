@@ -1,0 +1,23 @@
+#include <iostream>
+
+int main 
+using namespace std;
+int main() 
+{
+	  int number;
+    double decimal;
+    char letter;
+    char sibject [21];
+    	
+ cout <<"Enter an integer"<< end1;
+ cin >> number;
+ cout <<"Enter a decimal number"<< end1;
+ cin >> decimal;
+ cout <<"Enter a single character"<< end1;
+ cin >> letter;
+ cout <<"Enter an array of characters"<< end1;
+ cin << subject;
+ 
+ return 0;
+}
+ 
