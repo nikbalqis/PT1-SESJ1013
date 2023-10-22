@@ -1,13 +1,11 @@
 #include <iostream>
-
-int main 
 using namespace std;
 int main() 
 {
-	int number;
-    double decimal;
-    char letter;
-    char sibject [21];
+int number;
+double decimal;
+char letter;
+char sibject [21];
     	
  cout <<"Enter an integer"<< end1;
  cin >> number;

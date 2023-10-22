@@ -1,0 +1,7 @@
+#include <iostream>
+using namespace std;
+int main()
+{
+cout<<"Enter an integer: 7\n""Enter a decimal number : 2.25\n""Enter a single character : R\n""Enter an array of characters: Programming";
+return 0;
+}
