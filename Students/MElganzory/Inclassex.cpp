@@ -4,18 +4,18 @@ using namespace std;
 
 int main()
 {
-    int number;
-    double decimal;
-    char letter;
-    char subject[21];
+    int num1;
+    double num2;
+    char let;
+    char word[21];
 
     cout << "Enter an integer:" << endl;
-    cin >> number;
+    cin >> num1;
     cout << "Enter a decimal number:" << endl;
-    cin >> decimal;
+    cin >> num2;
     cout << "Enter a single character:" << endl;
-    cin >> letter;
+    cin >> let;
     cout << "Enter an array of characters:" << endl;
-    cin >> subject;
+    cin >> word;
     return 0;
 }
