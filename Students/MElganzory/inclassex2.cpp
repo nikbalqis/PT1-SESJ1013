@@ -4,19 +4,22 @@ using namespace std;
 
 int main()
 {
+int a = 1;
+double d = 1.0;
 
-double a = 46/9;
-double b = 46 % 9 + 4 * 4 - 2;
-double c = 45 + 43 % 5 * (23 * 3 % 2);
-int d = d % 3 / a + 3;
-double e = e + 1.5 * 3 + (++a);
-double f = f - 1.5 * 3 + a++;
-    cout << "The value of A is" << a <<endl;
-    cout << "The value of B is" << b <<endl;
-    cout << "The value of C is" << c <<endl;
-    cout << "The value of D is" << d <<endl;
-    cout << "The value of E is" << e <<endl;
-    cout << "The value of F is" << f <<endl;
+a = 46/9;
+cout << "The value of A =" <<  a << endl;
+a = 46 % 9 + 4 * 4 - 2;
+cout << "The value of A =" <<  a << endl;
+a = 45 + 43 % 5 * (23 * 3 % 2);
+cout << "The value of A =" <<  a << endl;
+a %=3 / a + 3;
+cout << "The value of A =" <<  a << endl;
+d += 1.5 * 3 + (++a);
+cout << "The value of D =" <<  d << endl;
+d -= 1.5 * 3 + a++;
+cout << "The value of D =" <<  d << endl;
+
 
     return 0;
 }
