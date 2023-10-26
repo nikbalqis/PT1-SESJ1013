@@ -7,7 +7,6 @@ int main(){
     double d = 1.0;
 
     a = 46/9;
-
     cout << "i) " << a << endl;
 
     a = 46 % 9 +4 * 4 - 2;
