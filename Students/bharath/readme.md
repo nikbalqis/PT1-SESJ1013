@@ -1,20 +1,24 @@
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() 
 {
     int num;
-    double num1;
-    char alphabet, alphabets [21];
+    double deci;
+    char alphabet, words;
 
     cout<< "Enter an integer:";
     cin >> num;
+    
     cout<< "Enter a decimal number:";
-    cin >> num1;
+    cin >> deci;
+   
     cout<< " Enter a single character:";
     cin >> alphabet;
-    cout<< "Enter an array of characters:";
-    cin >> alphabets;
+   
+    cout << "Enter an array of characters:";
+    cin >> words;
 
 
     return 0;
