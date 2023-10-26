@@ -8,7 +8,7 @@ int main()
 	char n3[21];
 	char n4[21];
 	
-	cout<<"Enter an integer:";
+	cout<<"Enter an integersssss:";
 	cin>>n1;
 	cout<<"Enter a decimal number:";
 	cin>>n2;
