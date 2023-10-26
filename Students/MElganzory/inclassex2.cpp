@@ -14,8 +14,8 @@ a %=3 / a + 3;
 d += 1.5 * 3 + (++a);
 d -= 1.5 * 3 + a++;
 
-cout << "The value of A" << a << endl;
-cout << "The value of D" << d << endl;
+cout << "The value of A =" <<  a << endl;
+cout << "The value of D =" <<  d << endl;
 
     return 0;
 }
