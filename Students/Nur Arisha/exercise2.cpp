@@ -7,5 +7,6 @@ int main()
     double d = 1.0;
     a = 46.9;
     cout << a;
+    cout<<a;
     return 0;
 }
