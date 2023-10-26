@@ -1,24 +1,22 @@
 #include <iostream>
+
 using namespace std;
 
-int main()
-{
-    int integer;
-    float decnum;
-    char single;
-    string array;
+int main(){
+    int x;
+    double y;
+    char ape, siapa[21];
 
     cout << "Enter an integer: ";
-    cin >> integer;
-
+    cin >> x;
     cout << "Enter a decimal number: ";
-    cin >> decnum;
-
+    cin >> y;
     cout << "Enter a single character: ";
-    cin >> single;
-
+    cin >> ape;
     cout << "Enter an array of characters: ";
-    cin >> array;
+    cin >> siapa;
 
+
+    system("pause");
     return 0;
 }

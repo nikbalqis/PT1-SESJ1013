@@ -6,7 +6,7 @@ int main(){
     int int1;
     double dec1;
     char char1;
-    string array1;
+    char array1[21];
 
     cout<<"Enter an interger: ";
     cin>> int1;
